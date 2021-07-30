@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/gabrielmartins_91/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   
-<!-- Cobrinha --> ![Snake animation](https://github.com/rafaballerini/omartins-zs/blob/output/github-contribution-grid-snake.svg) 
+<!-- Cobrinha --> ![Snake animation](https://github.com/omartins-zs/omartins-zs/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
