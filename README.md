@@ -3,7 +3,7 @@
 - 🔭 **Atualmente estou trabalhando com:** Front-End
 - 🌱 **Atualmente estou aprendendo:** C# & PHP
 - 🖥️ **Estudando:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
-- 🎒 **Ferramentas:** Principais: Visual Studio Code and GitHub 
+- 🎒 **Ferramentas** Principais: Visual Studio Code and GitHub 
 - ⚡ **Fato engraçado:** Adoro Filmes e Series;
 <!--
 **omartins-zs/omartins-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
