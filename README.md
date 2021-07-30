@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
   <a href="https://github.com/omartins-zs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=7&theme=react"/>
 </div>
    
   <div style="display: inline_block"><br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <!-- Para colocar gif -->
-  <img align="right" alt="Gabriel-Gif" src="https://i.picasion.com/pic91/93dcd73655283db9e73e34b5680a89cc.gif">
+  <img align="right" alt="Gabriel-Gif" height="150" src="https://i.picasion.com/pic91/93dcd73655283db9e73e34b5680a89cc.gif">
 </div>
    
  ##
