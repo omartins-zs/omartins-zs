@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/omartins-zs">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&hide=contribs,issues&theme=algolia"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=8&theme=algolia"/>
    
 
 </div>
