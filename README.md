@@ -19,13 +19,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="20">
   <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
-  <a href="https://github.com/omartins-zs">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&hide=contribs,issues&theme=algolia"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=8&theme=algolia"/>
-   
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&show_icons=true&theme=transparent"/>             
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=5&theme=algolia"/>
+ <br>
 
-</div>
+<!--Badge do Wakatime -->
+ <a href="https://wakatime.com/@6683ae63-e9a4-432d-92ed-9cb2414f826a"><img src="https://wakatime.com/badge/user/6683ae63-e9a4-432d-92ed-9cb2414f826a.svg" alt="Total time coded since Aug 12 2022" /></a>
+ 
+</div>   
    
   <div style="display: inline_block"><br>
      <img align="center" alt="C3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
