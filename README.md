@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Gabriel Martins👩‍💻  👋
 
-- 🔭 **Atualmente estou trabalhando com:** Front-End
+- 🔭 **Atualmente estou trabalhando com:** Back-End e Front-End
 - 🌱 **Atualmente estou aprendendo:** C# & PHP
 - 🖥️ **Estudando:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
 - 🎒 **Ferramentas** Principais: Visual Studio Code and GitHub 
