@@ -2,7 +2,7 @@
 
 - 🔭 **Atualmente estou trabalhando com:** Back-End e Front-End
 - 🌱 **Atualmente estou aprendendo:** C# & PHP
-- 🖥️ **Estudando:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
+- 🖥️ **Estudando:** Análise e Desenvolvimento de Sistemas no [Eniac](https://www.eniac.com.br/);
 - 🎒 **Ferramentas** Principais: Visual Studio Code and GitHub 
 - ⚡ **Fato engraçado:** Adoro Filmes e Series;
 <!--
