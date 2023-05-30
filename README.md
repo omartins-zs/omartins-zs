@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&show_icons=false&theme=transparent"/>             
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=6&theme=algolia"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omartins-zs&show_icons=false&theme=prussian"/>             
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=5&theme=nord"/>
  <br>
 
 <!--Badge do Wakatime -->
