@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <img height="150em" src="https://github-readme-stats-fnck.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=5&theme=nord"/>-->
 
  <!-- SEU SVG PRIVADO GERADO POR GITHUB ACTIONS (Tema Prussian definido no .yml) -->
- <img height="150em" src="https://raw.githubusercontent.com/omartins-zs/github-stats/main/dist/stats.svg" />             
+ <img height="150em" src="https://raw.githubusercontent.com/omartins-zs/github-stats/master/dist/stats.svg" />             
  
  <!-- API PÚBLICA PARA TOP LANGS (Tema Nord) -->
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartins-zs&layout=compact&langs_count=6&theme=nord"/>
