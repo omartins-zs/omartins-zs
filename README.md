@@ -31,6 +31,13 @@ Here are some ideas to get you started:
  
  <br>
 
+<!-- WAKATIME LAYOUT DEFAULT -->
+<img src="https://github-stats-chi-henna.vercel.app/api/wakatime?username=omartins_zs&theme=nord" />
+<!-- OU WAKATIME LAYOUT COMPACTO -->
+<img src="https://github-stats-chi-henna.vercel.app/api/wakatime?username=omartins_zs&theme=nord&layout=compact" />
+
+  <br>
+
 <!--Badge do Wakatime -->
  <a href="https://wakatime.com/@6683ae63-e9a4-432d-92ed-9cb2414f826a"><img src="https://wakatime.com/badge/user/6683ae63-e9a4-432d-92ed-9cb2414f826a.svg" alt="Total time coded since Aug 12 2022" /></a>
  
